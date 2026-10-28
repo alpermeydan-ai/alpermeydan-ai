@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Alper 
-  **High School Prep Student | Future AI & Robotics Enthusiast**
+  **High School Prep Student | Curious about Future AI & Robotics**
    Welcome to my GitHub page! I am on a wonderful adventure of learning more about technology, programming, language development and artificial intelligence.
 ---
 ### 💻 What I'm Learning & Doing:
