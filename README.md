@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**alpermeydan-ai/alpermeydan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋 I am Alper 
+  **High School Prep Student | Future AI & Robotics Enthusiast**
+   Welcome to my GitHub page! I am on a wonderful adventure of learning more about technology, programming, language development and artificial intelligence.
+---
+### 💻 What I'm Learning & Doing:
+* 🤖 **Artificial Intelligence:** Understanding AI basics and techniques using BTK Akademi and international sources.
+* 🐍 **Programming:** Learning **Python** and core **Algorithms**.
+* 🌐 **English:** Practice technical English every day to read docs and write prompts.
+---
+*✨ "The best way to predict the future is to invent it."*
